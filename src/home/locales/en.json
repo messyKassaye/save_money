@@ -1,0 +1,145 @@
+{
+  "en": {
+    "app_name": "Save money",
+    "title": "Welcome to Ride ads",
+    "Home": "Home",
+    "About": "About",
+    "Contact": "Contact",
+    "Cars": "Cars",
+    "advert medias": "Advert media",
+    "Pricing": "Pricing",
+    "Login": "Login",
+    "Sign up": "Sign up",
+    "register": "Register now",
+    "start_button": "Start now!",
+    "advertiser": "Advertise your companies product and increase your income",
+    "driver": "Start using Smart display on your taxi or on your bus  & get additional income",
+    "advertiser_engineer": "Are you naturally gifted of good voice. Then work as advertise engineer now",
+    "designed_for": "Designed for Organizations, drivers and advertisers.",
+    "signup": {
+      "label": {
+        "first_name": "First name",
+        "last_name": "Last name",
+        "email": "Email address",
+        "phone": "Phone number",
+        "register_me": "Could you select your registration type",
+        "password": "Password",
+        "repeatPassword": "Repeat your password",
+        "register_me_as": {
+          "label": "Register me as:",
+          "translation": {
+            "Car owner": "Car owner",
+            "Advertiser": "Advertiser",
+            "Down loader": "Downloader"
+          }
+        },
+        "button": "Sign up",
+        "driver_form": "Proceed to next"
+      },
+      "errors": {
+        "first_name": "Please enter  first name",
+        "last_name": "Please enter last name",
+        "email": "Please enter email address",
+        "phone": "Please enter Phone number",
+        "email": "Please enter email address",
+        "isEmail": "Incorrect email address",
+        "passwordNotMatched": "password is not matched",
+        "networkerror": "Something is not wright.Please check your network",
+        "some_one_already_registered_by_this_email_address": "Some one already registered by this email address",
+        "some_one_already_registered_by_this_phone_number": "Some one already registered by this Phone number. please try another one"
+      }
+    },
+    "signup_message": "Sign up",
+    "login_message": "Login",
+    "login": {
+      "label": {
+        "email": "Email address",
+        "password": "Password",
+        "button": "Login",
+        "not_registered": "I'm not registered",
+        "forgot_password": "Forgot password"
+      },
+      "errors": {
+        "email": "Please enter your email address",
+        "password": "Please enter your password",
+        "Unauthorized user": "Unauthorized user. Incorrect email or password is used",
+        "networkError": "Something is not wright.Please check your network"
+      }
+    },
+    "registered": "I'm already registered",
+    "what_is_tablet_promotion": {
+        "title": "What is Smart display",
+        "slogan": "Let's work together and change ourselves and our community ",
+        "description": "Smart display is a company that advertises the product of various organizations through taxi and buses using tablet computers. In this role it is generating more revenue for many taxi and bus drivers",
+        "description_3": "It is a family company with the aim of transforming the lives of many Ethiopians. Join us and change together"
+
+    },
+    "how_it_works": {
+      "title": "How it works",
+      "description": "Smart display is an Internet-based organization dedicated to working on cars.",
+      "organizations": "Advertisers",
+      "carOwners": "Car owners",
+      "downloader": "Downloader",
+      "organizations_description": "According to smart display, advertisers are individuals or individuals who are willing to promote the product of their company. Any advertisers or organization wishing to advertise may choose to advertise on the registration form or become a member of smart display. Once the registration is completed, it means that it will start promoting the products of the organization using the app designed for investors",
+      "organizations_span": "According to smart display, advertisers are individuals or individuals who are willing to advertise the product of their company. Any advertiser or organization that wants to advertise...",
+      "organizations_description_2": "As you know, advertising works by video, audio, and image. Smart display uses all three advertising tools. All three payment rates vary according to the order. When the video contains the highest payment amount, the audio occupies the middle and image last",
+      "organizations_final": "Sign up today and promote your product throughout Ethiopia",
+
+      "drivers_description": "According to Smart display, driver and car owners are any cars that provide public transport services. Examples include Bajaj, and mini bus from the taxi sector. The biggest share of taxis is to start advertising on their taxis by downloading a promotional video or audio using the application created for them from our server. By doing so, they will be paid 60% of the advertising fee.",
+      "drivers_span": "According to smart display, driver and car owners are any cars that provide public transport services. Examples include Bajaj, and mini bus  from the taxi sector.....",
+      "drivers_description_2": "For example, if a video ad fee is 1 ETB and a taxi plays this video 10 times a day in the taxi, it will cost 6 ETB. Currently more and more ads are coming to us so taxis can earn a lot of extra revenue because they can make multiple ads in one day",
+      "drivers_final": "Sign up today and earn more",
+      "downloader_description": "As we all know, Internet fares in Ethiopia are a bit slow and the pace is worrying. So this issue will be a big challenge for drivers and car owners. So Ride ads created a member of advert video downloader",
+      "downloader_span": "As we all know, Internet fares in Ethiopia are a bit slow and the pace is worrying. So this problem is going to be a big challenge for taxis and make their money...",
+      "downloader_description_2": "A large part of the convention would be to download advertising videos or videos by itself and sell them to taxi driver and car owners. The amount of sales will be based on the scale of the announcement of the Ride ads.",
+      "downloader_final": "Sign up today and earn more",
+      "see_more": "To read it all",
+      "show_less": "Show in small"
+    },
+    "categories": {
+      "title": "About cars"
+    },
+    "advert_media": {
+      "title": "About advert medias"
+    },
+    "slider": {
+      "advertiser": "Start adverting your product and increase your revenue.",
+      "advertiser_description": "Do your work, Leave advertising your product to us",
+      "driver": "Are you a taxi or bus driver? Then earn extra income by becoming a member of smart display",
+      "driver_description": "Make an advert on your car and earn more money",
+      "start_button": "Start today",
+      "watch_video": "Watch video"
+    },
+
+    "categories": {
+      "title": "About cars"
+    },
+    "advert_media": {
+      "title": "About advert media"
+    },
+    "about_us": {
+      "about_message": "About us"
+    },
+    "contact_us": {
+      "contact_message": "Contact us"
+    },
+    "cars": {
+      "cars_message": "About cars"
+    },
+    "advert_medias": {
+      "advert_medias_message": "About advert media"
+    },
+    "Video": "Video",
+    "Audio": "Audio",
+    "Image": "Image",
+    "Video_description": "There are many types of advertising tools available in the world, one of which is video. We often uses video to advertise on television and YouTube. Our organization uses video to advertise our customer's products. Advertise your product through video and Increase your income.",
+    "Audio_description": "There are many types of advertising tools available in the world, one of which is audio. We often uses audio to advertise on television and YouTube. Our organization uses audio to advertise our customer's products. Advertise your product through audio and Increase your income.",
+    "Image_description": "There are many types of advertising tools available in the world, one of which is images. We often uses images to advertise on television and YouTube. Our organization uses images to advertise our customer's products. Advertise your product through images and Increase your income.",
+    "Bajaj": "Bajaj",
+    "Bajaj_description": " ኢትዮጵያ ውስጥ በተለየም በክፍለ ሃገር ከተሞች ባጃጆች ከፍተኛውን የህዝብ ማመላለስ አገልግሎት ከሚሰጡት ውስጥ ይመደባሉ።\n ህዝብ ማመላለስ ብቻውን በጉሎ አድ ተመራጭ አይደርግም በተጨማሪም ማስታዎቂያዎችን ለማሳየት ምቹ\n የሆነ ቦታ ሊኖረው ይገባል። ባጃጆች ምቹ የሆነ የማስታዎቂያ ቦታ እና እንዲሁም ከ3 በላይ ተሳፋሪ የመያዝ አቅም ስላላቸው በጉሎ አድ ተመራጭ \n አድርጓቸዋል። የባጃጅ ባለቤት ከሆኑ እንዲሁም የባጃጅ ሾፌር ከሆኑ ዛሬውኑ ተመዘግበው ማስታዎቂያዎችን በማሳየት የቀን ገቢዎን ይጨምሩ።",
+    "Mini bus": "Mini bus",
+    "Mini bus_description": "ኢትዮጵያ ውስጥ ህዝብ በብዛት ከሚመላለስባቸው ታክሲዎች መከከል ሚኒ ባሶች ዋነኞቹ ናቸው። ሚኒ ባሶች ብዙ ተሳፋሪ በመያዝ እና እንዲሁም \n ማስታዎቂያ ለማሳየት ምቹ በመሆናቸው በጉሎ አድ ዘንድ ተመራጭ ያደርጋቸዋል።\n ሚኒ ባስዎ ላይ ማስታዎቂያዎችን ለተሳፋሪዎች ማሳዬት ይጀምሩ፣ ተጨማሪ ገቢም ያግኙ።\n ዛሬውኑ ይመዝገቡ እና ማስተዋወቅ ይጀምሩ",
+    "Public Transport buses": "Public Transport buses",
+    "Public Transport buses_description": "አውቶብሶች ብዛት ያላቸውን ተሳፋሪዎች በማመላለስ ይታወቃሉ ከእነዚህም መካከል አንበሳ እና ሸገር አውቶብሶች ተጠቃሾች ናቸው። \nበዚህም የተነሳ ለማስታዎቂያ ምቹ እና ተፈላጊ ያደርጋቸዋል።\nየአውቶብስ ማህበር አባል ከሆኑ እንዲሁም የራስዎ አውቶብስ ካለዎት ዛሬውኑ ይመዝገቡ እና ገቢዎን ከፍ ያድርጉ"
+  }
+}

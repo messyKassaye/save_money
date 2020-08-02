@@ -1,0 +1,58 @@
+{
+  "name": "front",
+  "version": "0.1.0",
+  "homepage": "http://tesfabunna.com/",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.10.0",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.54",
+    "axios": "^0.19.2",
+    "draft-js": "^0.11.5",
+    "history": "^4.10.1",
+    "i18next": "^17.3.1",
+    "i18next-browser-languagedetector": "^3.1.1",
+    "jodit-react": "^1.0.42",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15",
+    "mapbox-gl": "^1.10.1",
+    "react": "^16.13.1",
+    "react-avatar-edit": "^0.8.3",
+    "react-dom": "^16.13.1",
+    "react-froala-wysiwyg": "^3.1.1",
+    "react-i18next": "^7.10.1",
+    "react-image-magnifiers": "^1.3.2",
+    "react-loading": "^2.0.3",
+    "react-material-ui-form-validator": "^2.0.10",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.1.1",
+    "react-slideshow-image": "^1.5.0",
+    "react-world-flags": "^1.3.0",
+    "recharts": "^1.8.5",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "typeface-roboto": "0.0.75"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "am": {
+   "new_advert": {
+     "title": "አድስ ማስታዎቂያ መመዝገቢያ",
+     "form": {
+       "select_company": "ማስታዎቂያ መስራት የሚፈልጉት ለየትኛው  ድርጀትዎ እንደሆነ ይምረጡ",
+       "select_media_type": "የማስታዎቂያውን ምስል አይነት ይምረጡ",
+       "select_place": "ማስታወቂያዎ የሚሰራበትን ቦታ ይምረጡ",
+       "product_name": "ማስተዋዎቅ የሚፈልጉትን ምርት ወይም ዕቃ ስም ያስገቡ",
+       "number_of_views": "ለምን ያህል ሰዎች እንዲታይለዎት እንደሚፈልጉ ያስገቡ",
+       "minimum_views": "የዕይታ ብዛት በትንሹ ከአስር ሺ ይጀምራል",
+       "all_over_ethiopia": "በሁሉም ኢትዮጵያ",
+       "file_preparation": "የማስታዎቂያውን ምስል አዘጋጅተዋል። ካዘጋጁ ምስሉን ይላኩልን",
+       "upload": "ምስሉን ላክ",
+       "select_file": "የተመረጠው ምስል ስም፡",
+       "send_advert": "ማስታዎቂያውን ላክ",
+       "advertisement_place": "ማስታዎቂያዎ በሁሉም የኢትዮጵያ ግዛቶች እንዲታይ ፈቅደዋል",
+       "back_to_select_place": "ወደ ቦታ ምርጫ መልሰኝ",
+       "succeed": "ማስታዎቂያዎ በትክክል ተመዝግቧል። እናመሰግናለን "
+     }
+   },
+    "bank_transaction": {
+      "title": "የክፍያ መፈጸሚያ",
+      "upload_succeed": "ማስታዎቂያዎ በትክክል ተመዝግቧል። ክፍያዎን ይፈጽሙ እና ",
+      "be": "በ",
+      "last": "በሁሉም ቦታ ማስተዋወቅ እንጀምራለን",
+      "unit_price": "የአንዱ ዋጋ፡",
+      "number_of_views": "የሚታየው ብዛት፡",
+      "total_payment": "ጠቅላላ ክፍያ፡"
+    },
+    "my_adverts": {
+      "title": "የማስታዎቂያዎች ዝርዝር",
+      "new_advert_registration_button": "አድስ ማስታዎቂያ መዝግብ"
+    },
+    "new_company": {
+      "title": "ድርጅቶች ",
+      "register_new_company": "አድስ ድርጅት መዝግብ",
+      "form": {
+        "title": "አድስ ድርጅት መመዝገቢያ",
+        "company_name": "የድርጅቱ ስም",
+        "phone": "የድርጅቱ ስልክ ቁጥር",
+        "website": "የድርጅቱ ድህረ ገጽ",
+        "register_btn": "መዝግብ"
+      }
+    },
+    "description": {
+      "title": "title",
+      "start_adverting": "ማስተዋወቅ ይጀምሩ"
+    },
+    "dashboard": {
+      "myAdverts": "ማስታዎቂያዎች",
+      "myCompanies": "ድርጅት",
+      "totalAdvertBudget": "ጠቅላላ የማስታዎቂያ ወጭ",
+      "dashboardAdverts": {
+        "adverts": "ማስታወቂያዎች",
+        "showAll": "ሁሉንም አሳይ",
+        "topViewedAdverts": "ብዙ የታዩ ማስታዎዊያዎች",
+        "expectedPlay": "የማስታዎቂያው ብዛት",
+        "currentViews":"የተጫወተው ማስታዎቂያ",
+        "payedAndWaitingApprovalAdverts": "የተከፈሉ እና ፍቃድ የሚጠብቁ ማስታዎቂያዎች",
+        "noAdvertIsFound": "ምንም ማስታዎቂያ ማግኘት አልቻልንም ):",
+        "unpaidAdverts": "ያልተከፈሉ ማስታዎቂያዎች"
+      },
+      "advertMediaAndCar": {
+        "carsTitle": "የመኪና አይነቶች",
+        "mediaTitle": "የማስታዎቂያ መሳሪያዎች አይነት"
+      }
+    }
+  }
+}

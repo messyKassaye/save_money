@@ -1,0 +1,53 @@
+{
+  "am": {
+    "advertiser_menu": {
+      "Dashboard": "ወደ ዋናው",
+      "My Companies": "ድርጅቶቼ",
+      "My adverts": "ማስታዎቂያዎች",
+      "Settings": "ማስተካከያ"
+    },
+    "driver_menu": {
+      "Dashboard": "ወደ ዋናው",
+      "Downloads": "የወረዱ ማጫዎቻዎች",
+      "Settings": "ማስተካከያ",
+      "My adverts": "ማስታዎቂያዎች",
+      "Finance": "ገንዘብ ነክ"
+    },
+    "admin_menu": {
+      "Dashboard": "ወደ ዋናው",
+      "Address":"አድራሻዎች",
+      "All user": "ሁሉም ተጠቃሚዎች",
+      "Companies": "ድርጅቶች",
+      "Adverts": "ማስታዎቂያዎች",
+      "All advert": "ማስታዎቂያዎች",
+      "My advert": "የእኔ ማስታዎቂያዎች",
+      "Adverts view": "የታዩ ማስታዎቂያዎች",
+      "Utilities": "መገልገያዎች",
+      "Roles": "ሚናዎች",
+      "Banks": "ባንኮች",
+      "Cars": "መኪኖች",
+      "Medias": "ምስሎች",
+      "Places": "የማስታዎቂያ ቦታዎች",
+      "Users": "ተጠቃሚዎች",
+      "Advertisers": "አስተዋዋቂዎች",
+      "Drivers": "ሾፌሮች",
+      "Settings": "ማስተካከያ",
+      "Profile Settings": "ማስተካከያ",
+      "Finances": "ገንዘብ ነክ",
+      "Currency": "የገንዘብ አይነቶች",
+      "Check advert views": "የዕይታ ማረጋገጫ",
+      "My payment": "ክፍያዎቼ",
+      "Total withdrawals": "ጠቅላላ ወጭ",
+      "Withdraw request": "የወጭ ጥያቄዎች",
+      "Payed withdraw": "የተጠናቀቁ የወጭ ጥያቄዎች",
+      "Company settings": "የድርጅቱ ማስተካከያ",
+      "What is TabAdverts": "ታብ ማስታዎቂያ ምንድነው",
+      "About us": "ስለ እኛ",
+      "pricing": "ስለ ዋጋ",
+      "About cars": "ስለ መኪኖች",
+      "Partners": "አጋሮቻችን",
+      "Testimony": "ምስክሮች"
+    },
+    "topAdvertedCompany": "ብዙ ያስተዋወቁ ድርጅቶች"
+  }
+}

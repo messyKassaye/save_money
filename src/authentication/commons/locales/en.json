@@ -1,0 +1,52 @@
+{
+  "en": {
+    "advertiser_menu": {
+      "Dashboard": "Dashboard",
+      "My Companies": "My Companies",
+      "My adverts": "My adverts",
+      "Settings": "Settings"
+    },
+    "driver_menu": {
+      "Dashboard": "Dashboard",
+      "Downloads": "Downloads",
+      "Settings": "Settings",
+      "My adverts": "My adverts",
+      "Finance": "Finances"
+    },
+    "admin_menu": {
+      "Dashboard": "Home",
+      "Address":"Address",
+      "All user": "All Users",
+      "Adverts": "Adverts",
+      "All advert": "About adverts",
+      "My advert": "My advert",
+      "Adverts view": "Viewed adverts",
+      "Roles": "Roles",
+      "Utilities": "Utilities",
+      "Banks": "Banks",
+      "Cars": "Cars",
+      "Medias": "Medias",
+      "Places": "Places",
+      "Users": "Users",
+      "Advertisers": "Advertisers",
+      "Drivers": "Drivers",
+      "Settings": "Settings",
+      "Profile Settings": "Profile Settings",
+      "Finances": "Finances",
+      "Currency": "Currency",
+      "Check advert views": "Check advert views",
+      "My payment": "My payment",
+      "Total withdrawals": "Total withdrawals",
+      "Payed withdraw": "Payed withdraw",
+      "Withdraw request": "Withdraw request",
+      "Company settings": "የድርጅቱ ማስተካከያ",
+      "What is TabAdverts": "What is TabAdverts",
+      "About us": "About us",
+      "pricing": "Pricing",
+      "About cars": "About cars",
+      "Partners": "Partners",
+      "Testimony": "Testimony"
+    },
+    "topAdvertedCompany": "Top adverted companies"
+  }
+}

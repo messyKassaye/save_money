@@ -1,0 +1,67 @@
+{
+  "en": {
+    "new_advert": {
+      "title": "New advert registration",
+      "form": {
+        "select_company": "Select for which company you are going to advert",
+        "select_media_type": "Select advertisement media type",
+        "select_place": "Select a place you want to advert",
+        "product_name": "Select product name",
+        "number_of_views": "Add number of views",
+        "minimum_views": "Minimum number of views",
+        "all_over_ethiopia": "All over Ethiopia",
+        "file_preparation": "Have you prepare you advertisement media type. Send us your file",
+        "upload": "Upload",
+        "select_file": "Select file name፡",
+        "send_advert": "Send advert",
+        "advertisement_place": "Advertisement place is set to All over Ethiopia",
+        "back_to_select_place": "Back to place selection",
+        "succeed": "Your advert is saved successfully"
+      }
+    },
+    "bank_transaction": {
+      "title": "Payment status",
+      "upload_succeed": "Your advert information is uploaded successfully. after payment your product ",
+      "be": "will be advertised by all places of ",
+      "last": ""
+    },
+    "my_adverts": {
+      "title": "List of adverts",
+      "new_advert_registration_button": "Add new advert"
+    },
+    "new_company": {
+      "title": "My companies",
+      "register_new_company": "Register new company",
+      "form": {
+        "title": "New company registration",
+        "company_name": "Company name",
+        "phone": "Company phone no",
+        "website": "Company website if you have any",
+        "register_btn": "Register"
+      }
+    },
+    "description": {
+      "title": "title",
+      "start_adverting": "Start adverting"
+    },
+    "dashboard": {
+      "myAdverts": "My adverts",
+      "myCompanies": "My companies",
+      "totalAdvertBudget": "Total advert budget",
+      "dashboardAdverts": {
+        "adverts": "Adverts",
+        "showAll": "Show all",
+        "topViewedAdverts": "Top viewed adverts",
+        "expectedPlay": "Expected play",
+        "currentViews":"Current views",
+        "payedAndWaitingApprovalAdverts": "Payed and waiting approval adverts",
+        "noAdvertIsFound": "We can't find any adverts ):",
+        "unpaidAdverts": "Unpaid adverts"
+      },
+      "advertMediaAndCar": {
+        "carsTitle": "Advertisement car type",
+        "mediaTitle": "Advertisement media types"
+      }
+    }
+  }
+}
